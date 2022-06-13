@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mdmansur8178
-- 👀 I’m interested in Web programing,Islamik nashid singing and audio mastering,
-- 🌱 I’m currently learning web design 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ❤️ I'm a hafeze quran and right now I'm studying at Qawmi madrasah to be a graduated person in Islamic studies.
+- 👀 And I’m interested in Web programing,Islamik nashid singing and audio mastering,
+- 🌱 I’m currently learning web design and development.although i don’t have a pc or laptop right now.I started this mission using my hand phone.
+Keep me in your blessing.
 
 <!---
 mdmansur8178/mdmansur8178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
