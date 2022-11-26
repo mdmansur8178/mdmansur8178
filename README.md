@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mdmansur8178
-- ❤️ I'm a hafeze quran and right now I'm studying at Qawmi madrasah to be a graduated person in Islamic studies.
-- 👀 And I’m interested in Web programing,Islamik nashid singing and audio mastering,
+- 👋 Hi, I’m Mansurul Hoque
+- ❤️ I'm a hafeze quran and right now I'm studying at Qawmi madrasah to be a graduated person in islamic studies.
+- 👀 And I’m interested in Web programing,Islamic nashid singing and audio mastering,
 - 🌱 I’m currently learning web design and development.although i don’t have a pc or laptop right now.I started this mission using my hand phone.
 Keep me in your blessing.
 
